@@ -10,20 +10,11 @@
 
 # Ex 1: Ungrouped hosts, specify before any group headers.
 
-[splunk]
-strauss.josehelps.com
-
 [container]
 conan.josehelps.com
 
 [proxy]
 strauss.josehelps.com
-conan.josehelps.com
-
-[sensor]
-kant.josehelps.com
-
-[chat]
 conan.josehelps.com
 
 [mregan-dev]
